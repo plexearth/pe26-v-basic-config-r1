@@ -47,19 +47,19 @@
               "isVisible": "true",
               "isEnabled": "true"
             },
-            "PXID_PANEL_CONTEXTUAL_DATA": {
+            "PXID_PANEL_CONTEXTUAL_DATA_BASIC": {
               "isVisible": "true",
               "isEnabled": "false"
             },
-            "PXID_PANEL_RASTER_TOOLS": {
+            "PXID_PANEL_RASTER_TOOLS_BASIC": {
               "isVisible": "true",
               "isEnabled": "false"
             },
-            "PXID_PANEL_GE": {
-              "isVisible": "false",
+            "PXID_PANEL_GE_BASIC": {
+              "isVisible": "true",
               "isEnabled": "false"
             },
-            "PXID_PANEL_SERVICE_NOSESS": {
+            "PXID_PANEL_SERVICE_NOSESS_BASIC": {
               "isVisible": "true",
               "isEnabled": "true"
             }
@@ -139,7 +139,7 @@
         "foreClr": "#FFF",
         "dlgRes": "true"
       },
-      "title": "Welcome to Plex-Earth Basic!"
+      "title": "Welcome to Plex-Earth Basic"
     },
     "onTrialExpiredMessage_Pro": {
       "type": "dialog",
