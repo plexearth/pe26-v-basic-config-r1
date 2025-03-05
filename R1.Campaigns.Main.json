@@ -7,8 +7,8 @@
     "URL_ON_SIGN_IN_EXPIRES_SOON_TRIAL_PRICING": "[$URL_PAGE_PRICING]?utm_source=[$HOST_PLATFORM_REF]-[$PROD_REF]&utm_medium=in_app_message&utm_term=on_trial_expired&utm_campaign=upgrade&wky=[$wky]",
     "URL_ON_SIGN_IN_EXPIRES_SOON_TRIAL_CONTACT": "[$URL_PAGE_CONTACT_SALES]?utm_source=[$HOST_PLATFORM_REF]-[$PROD_REF]&utm_medium=in_app_message&utm_term=on_trial_expired&utm_campaign=upgrade&wky=[$wky]",
     "URL_PREMIUM_UPGRADE_IMAGE": "[$URL_ROOT_CDN]/campaigns/103-nearmap/image.jpg",
-    "URL_PREMIUM_UPGRADE_GOTO_LEARN": "campaigns/103-nearmap/gotoLearn?utm_source=[$HOST_PLATFORM_REF]-[$PROD_REF]&utm_medium=in_app_message&utm_term=on_nearmap_deny&utm_campaign=providers&wky=[$wky]",
-    "URL_PREMIUM_UPGRADE_ON_ACCEPT": "campaigns/103-nearmap/gotoAccept?utm_source=[$HOST_PLATFORM_REF]-[$PROD_REF]&utm_medium=in_app_message&utm_term=on_nearmap_deny&utm_campaign=providers&wky=[$wky]"
+    "URL_PREMIUM_UPGRADE_GOTO_LEARN": "[$URL_PAGE_GOTO_PLUGIN]/campaigns/103-nearmap/gotoLearn?utm_source=[$HOST_PLATFORM_REF]-[$PROD_REF]&utm_medium=in_app_message&utm_term=on_nearmap_deny&utm_campaign=providers&wky=[$wky]",
+    "URL_PREMIUM_UPGRADE_ON_ACCEPT": "[$URL_PAGE_GOTO_PLUGIN]/campaigns/103-nearmap/gotoAccept?utm_source=[$HOST_PLATFORM_REF]-[$PROD_REF]&utm_medium=in_app_message&utm_term=on_nearmap_deny&utm_campaign=providers&wky=[$wky]"
   },
   "sysSelections": {
     "DAYS_TO_EXPIRE_TEXT": {

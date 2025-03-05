@@ -6,6 +6,7 @@
       "downloadUrl": "https://goto.plexearth.com/pe26-pro/plugin/download",
       "pricingUrl": "https://goto.plexearth.com/pe26-pro/plugin/pricing",
       "hasSplashScreen": "true",
+      "canActivation": "true",
       "canSwitchEdition": "true",
       "activationConfig": {
         "title": "Plex-Earth Basic",
